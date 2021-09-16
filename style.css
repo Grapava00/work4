@@ -1,0 +1,21 @@
+header{
+	background-color: #0020F4;
+	height: 388px;
+}
+
+.logo{
+	width: 115px;
+	height: 65px;
+	margin-left: 240px;
+	margin-top: 40px;
+}
+a{
+	text-decoration: none;
+}
+li a{
+	color: #FFFFFF;
+	font-size: 16px;
+}
+ul{
+	margin-left: 843px;
+}
