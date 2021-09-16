@@ -19,3 +19,39 @@ li a{
 ul{
 	margin-left: 843px;
 }
+.main{
+	width: 1195px;
+	height: 600px;
+}
+h2{
+	font-size: 28px;
+	margin-top: 30px;
+}
+.other{
+	margin-top: 60px;
+	width: 219px;
+	height: 219px;
+}
+.distance{
+	margin-right: 25px;
+}
+div p{
+	font-size: 16px;
+	width: 951px;
+}
+.up{
+	margin-top: 60px;
+}
+.bottom{
+	margin-bottom: 18px;
+}
+footer{
+	background-color: #0A22F4;
+}
+.rights{
+	width: 209px;
+}
+.smart{
+	width: 121px;
+	height: 35px;
+}
